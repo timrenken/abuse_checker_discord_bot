@@ -14,8 +14,8 @@ To use this bot, you will need to have Python 3.8 and pip installed on your syst
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://gitea.renken.tech/tim/abuse_checker_bot
-cd abuse_checker_bot
+git clone https://github.com/timrenken/abuse_checker_discord_bot
+cd abuse_checker_discord_bot
 ```
 Install the required libraries using pip:
 ```bash
